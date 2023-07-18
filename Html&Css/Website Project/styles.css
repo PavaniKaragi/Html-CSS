@@ -1,0 +1,47 @@
+h1{
+	font-family:'Open Sans',sans-serif;
+color:red;
+}
+
+a:link, a:visited{
+	text-decoration:none;
+	color:brown;
+	font-weight:bold;
+}
+a:hover{
+	color:black;
+}
+nav ul{
+	list-style-type:none;
+}
+nav li{
+	display:inline;
+}
+nav a:link, nav a:visited{
+	background-color:brown;
+	color:white;
+}
+nav a:hover{
+	background-color:black;
+}
+aside{
+	width:280px;
+	float:right;
+	background-color:tan;
+	text-align:center;
+	font-weight:bold;
+	padding:20px;
+}
+photo-left{
+	float:left;
+}
+td,th{
+	border:1px solid black;
+	width:20%;
+	text-align:center;
+	padding:5px;
+}
+table{
+	border-collapse:collapse;
+}
+
